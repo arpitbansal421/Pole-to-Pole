@@ -1,0 +1,37 @@
+.whetherbg {
+  background: url('../public/Background.jpg');
+  height: 50vh;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.heading{
+  color: white;
+  font-weight: 700;
+}
+
+.whetherResultBox{
+
+  margin: auto;
+  width:500px;
+  height: 500px;
+}
+
+.weatherIcon{
+  margin-top: 5px;
+  width:100px;
+  height: 100px;
+}
+
+.weatherCity{
+  font-size: 35px;
+}
+.weatherTemp{
+  font-size:45px;
+  font-weight: 700;
+}
+.shadow{
+  height: 250px;
+}
